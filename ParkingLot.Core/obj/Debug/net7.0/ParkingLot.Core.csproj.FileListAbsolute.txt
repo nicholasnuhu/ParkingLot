@@ -1,0 +1,15 @@
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\bin\Debug\net7.0\ParkingLot.Core.deps.json
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\bin\Debug\net7.0\ParkingLot.Core.dll
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\bin\Debug\net7.0\ParkingLot.Core.pdb
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\bin\Debug\net7.0\ParkingLot.Domain.dll
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\bin\Debug\net7.0\ParkingLot.Domain.pdb
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\ParkingLot.Core.csproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\ParkingLot.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\ParkingLot.Core.AssemblyInfoInputs.cache
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\ParkingLot.Core.AssemblyInfo.cs
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\ParkingLot.Core.csproj.CoreCompileInputs.cache
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\ParkingLot.Core.csproj.CopyComplete
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\ParkingLot.Core.dll
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\refint\ParkingLot.Core.dll
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\ParkingLot.Core.pdb
+C:\Users\solan\OneDrive\Desktop\NICKLAS\PERNASONAL PROJECT\ParkingLot\ParkingLot.Core\obj\Debug\net7.0\ref\ParkingLot.Core.dll

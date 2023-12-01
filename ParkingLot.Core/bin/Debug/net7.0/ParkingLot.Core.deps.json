@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ParkingLot.Core/1.0.0": {
+        "dependencies": {
+          "ParkingLot.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ParkingLot.Core.dll": {}
+        }
+      },
+      "ParkingLot.Domain/1.0.0": {
+        "runtime": {
+          "ParkingLot.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkingLot.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParkingLot.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

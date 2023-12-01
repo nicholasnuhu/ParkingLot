@@ -1,4 +1,6 @@
 using Microsoft.Extensions.Options;
+using ParkingLot.Core.Interfaces;
+using ParkingLot.Infrastructure.ExternalService;
 
 namespace ParkingLot.Api.Extensions;
 
@@ -18,4 +20,7 @@ public static class ServiceExtensions
         {
 
         });
+
+    public static void ConfigureLoggerService(this IServiceCollection services) =>
+        services.AddSingleton<ILoggerService, LoggerService>();
 }
